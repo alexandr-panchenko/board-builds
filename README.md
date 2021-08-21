@@ -7,3 +7,5 @@
 [PLUG-35 Zoom Panel](PLUG-35/index.html)
 
 [PLUG-36 Wheel Zoom](PLUG-36/index.html)
+
+[PLUG-42 Drag Board](PLUG-42/index.html)
