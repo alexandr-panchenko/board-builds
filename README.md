@@ -11,3 +11,9 @@
 [PLUG-42 Drag Board](PLUG-42/index.html)
 
 [PLUG-48,39,40 Menus](PLUG-38-39-40/index.html)
+
+[PLUG-40 Menus + Render Stress Test React-Konva](PLUG-40-stress-react-konva)
+
+[PLUG-40 Menus + Render Stress Test Konva](PLUG-40-stress-konva)
+
+[PLUG-40 Menus + Render Stress Test Canvas](PLUG-40-stress-canvas)
