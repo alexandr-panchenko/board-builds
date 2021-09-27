@@ -17,3 +17,9 @@
 [PLUG-40 Menus + Render Stress Test Konva](PLUG-40-stress-konva)
 
 [PLUG-40 Menus + Render Stress Test Canvas](PLUG-40-stress-canvas)
+
+[PLUG-40 + Optimisations Stress Test 1 000 items](PLUG-40-1-000)
+
+[PLUG-40 + Optimisations Stress Test 10 000 items](PLUG-40-10-000)
+
+[PLUG-40 + Optimisations Stress Test 100 000 items](PLUG-40-100-000)
