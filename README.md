@@ -27,3 +27,5 @@
 [PLUG-43 Select Tools](PLUG-43)
 
 [PLUG-63 Drag Board Using Mouse Wheel](PLUG-63)
+
+[PLUG-47 Text Inside Figures](PLUG-47)
